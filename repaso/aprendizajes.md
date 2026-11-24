@@ -1,4 +1,4 @@
-# Lista de cosas que aprendi
+# Tipos de formatos
 
 - [x] Mucho
 - [x] Mucho
