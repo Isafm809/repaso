@@ -13,3 +13,7 @@ no | si | no
 si | si | si
 
 :dog: :brown_heart:
+
+``` python
+print ("hola")
+```
